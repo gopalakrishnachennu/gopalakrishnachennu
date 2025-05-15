@@ -3,7 +3,7 @@
 I'm a passionate and solution-oriented developer with a strong foundation in **Python**, **cloud technologies**, and **data engineering**. I thrive on turning complex problems into elegant, scalable solutions—whether it's building data pipelines, automating workflows, or experimenting with AI models.
 
 ## 🔧 Core Skills
-**Python** | **SQL** | **Snowflake** | **Streamlit** | **Power BI** | **AWS** | **Git** | **Data Analytics** | **Web Development**
+**Python** | **SQL** | **Snowflake** | **Streamlit** | **Power BI** | **AWS** | **Git** | **Data Analytics** | **Web Development** | **Machine Learning** 
 
 ## 🚀 Interests
 I'm deeply interested in how technology can drive smarter decisions and meaningful impact—especially in domains like **cloud computing**, **machine learning**, and **full-stack development**. I'm always learning, exploring, and building.
