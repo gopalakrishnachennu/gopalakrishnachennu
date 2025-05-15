@@ -1,5 +1,20 @@
-<h1 align="center">Hi 👋, I'm Gopala Krishna Chennu</h1>
-<h3 align="center">👋 Hi, I’m Gopala Krishna Chennu I'm a passionate and solution-oriented developer with a strong foundation in Python, cloud technologies, and data engineering. I thrive on turning complex problems into elegant, scalable solutions—whether it's building data pipelines, automating workflows, or experimenting with AI models. 🔧 Core Skills: Python | SQL | Snowflake | Streamlit | Power BI | AWS | Git | Data Analytics | Web Development 🚀 I'm deeply interested in how technology can drive smarter decisions and meaningful impact—especially in domains like cloud computing, machine learning, and full-stack development. I'm always learning, exploring, and building. 💡 I believe in clean code, continuous learning, and collaborative growth. Open to exciting projects, new challenges, and connecting with like-minded developers. Let’s build something amazing together!</h3>
+# 👋 Hi, I’m Gopala Krishna Chennu
+
+I'm a passionate and solution-oriented developer with a strong foundation in **Python**, **cloud technologies**, and **data engineering**. I thrive on turning complex problems into elegant, scalable solutions—whether it's building data pipelines, automating workflows, or experimenting with AI models.
+
+## 🔧 Core Skills
+**Python** | **SQL** | **Snowflake** | **Streamlit** | **Power BI** | **AWS** | **Git** | **Data Analytics** | **Web Development**
+
+## 🚀 Interests
+I'm deeply interested in how technology can drive smarter decisions and meaningful impact—especially in domains like **cloud computing**, **machine learning**, and **full-stack development**. I'm always learning, exploring, and building.
+
+## 💡 Philosophy
+I believe in **clean code**, **continuous learning**, and **collaborative growth**. Open to exciting projects, new challenges, and connecting with like-minded developers.
+
+---
+
+✨ _Let’s build something amazing together!_
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalakrishnachennu&label=Profile%20views&color=0e75b6&style=flat" alt="gopalakrishnachennu" /> </p>
 
