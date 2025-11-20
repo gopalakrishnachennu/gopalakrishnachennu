@@ -2,114 +2,100 @@
 
 <br/><br/>
 
-# **Gopala Krishna Chennu**
+# **G O P A L A &nbsp; K R I S H N A &nbsp; C H E N N U**
 
-### *Solution Architect • Data Engineer • Cloud Specialist*
+### *Architecting Systems. Engineering Intelligence. Defining Precision.*
+
+<hr style="border:0.5px solid #333; width:60%;"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=20&duration=3000&pause=1200&color=BBBBBB&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Designing+Elegant+Architectures;Engineering+Cloud+%26+Data+Solutions" />
+### **“Technology should feel sharp, silent, and unstoppable.”**
 
 <br/><br/>
 
----
+</div>
 
-<br/>
-
-## 🌑 **About Me**
-A technology architect crafting **clean, resilient, cloud-native systems** with a focus on clarity, performance, and long-term scalability.  
-I design solutions where **complexity disappears**, reliability shines, and systems feel effortless.
+## ⚑ ABOUT
+Architect & Engineer specializing in **cloud, data, and AI-driven systems**.  
+I build high-performance architectures where reliability, clarity, and minimalism dominate.
 
 ```python
 class Profile:
-    role = "Solution Architect & Data Engineer"
-    mindset = "Simple. Scalable. Beautifully engineered."
-    passion = ["Cloud Architecture", "Data Systems", "AI Engineering"]
+    role = "Solution Architect"
+    signature = "Precision. Discipline. Clean Engineering."
+    domains = ["Cloud Systems", "Data Pipelines", "ML Systems"]
 ```
-
-<br/><br/>
 
 ---
 
-## ⚡ **What I Do**
-### **Architecture**
+## ⚑ CORE STRENGTHS
+### **SYSTEM ARCHITECTURE**
 - Distributed Systems  
-- Microservices (event-driven, real-time)  
+- Microservices / Event-Driven Flows  
 - High Availability & Scalability  
-- Cloud-Native & Serverless Design  
+- Serverless / Cloud-Native Design  
 
-### **Data Engineering**
-- ETL / ELT Pipelines  
-- Streaming Systems (Kafka, Spark)  
-- Data Warehouses (Snowflake)  
-- Big Data Processing  
+### **DATA ENGINEERING**
+- ETL/ELT Pipelines  
+- Kafka | Spark | Streaming Systems  
+- Data Warehousing (Snowflake)  
+- Massive-Scale Data Processing  
 
-### **Cloud Engineering**
+### **CLOUD + DEVOPS**
 - AWS • Azure • GCP  
-- Docker • Kubernetes  
+- Kubernetes • Docker  
 - CI/CD Automation  
 - Terraform • CloudFormation  
 
-### **AI & ML Engineering**
-- ML Model Deployment  
-- MLOps Pipelines  
+### **AI / ML SYSTEMS**
+- ML Deployment & MLOps  
 - LLM Integrations  
-- NLP & Vision Systems  
-
-<br/><br/>
-
----
-
-## 🎯 **Current Focus**
-Designing next-generation systems that feel smooth, reliable, and thoughtfully engineered.
-
-- AI-powered applications  
-- Cloud-native microservices  
-- Real-time event pipelines  
-- Distributed compute architecture  
-- ML workflows at scale  
-
-<br/><br/>
+- NLP • Vision Systems  
+- Model Optimization & Serving  
 
 ---
 
-## 🧰 **Tech Stack**
+## ⚑ TECH STACK (B&W EDITION)
 **Languages:** Python, Java, C, SQL  
 **Cloud:** AWS, Azure, GCP  
-**DevOps:** Docker, Kubernetes, Git, Jenkins  
-**AI / ML:** TensorFlow, PyTorch  
-**Data:** Kafka, MongoDB, PostgreSQL, Redis  
-
-<br/><br/>
+**Infrastructure:** Docker, Kubernetes, Terraform  
+**ML/AI:** TensorFlow, PyTorch  
+**Data Systems:** Kafka, PostgreSQL, MongoDB, Redis  
 
 ---
 
-## 🖤 **Principles I Build By**
-- *Design with intention*  
-- *Architect for scale*  
-- *Automate everything possible*  
-- *Keep systems elegant and predictable*  
-- *Aim for Apple-level smoothness*  
-
-<br/><br/>
+## ⚑ CURRENT MISSIONS
+- Engineering real-time, distributed systems  
+- Deploying AI at production scale  
+- Architecting cloud-native microservices  
+- Designing resilient compute pipelines  
+- Increasing system simplicity & velocity  
 
 ---
 
-## 🤝 **Connect**
+## ⚑ OPERATING PRINCIPLES
+- **Minimal surface. Maximum power.**  
+- **Design systems that outlive trends.**  
+- **Automate everything repeatable.**  
+- **Let architecture speak, not noise.**  
+- **If it isn’t clean, it isn’t done.**  
+
+---
+
+## ⚑ CONNECT
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopala-krishna-chennu-89912b230/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopala-krishna-chennu-89912b230/)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-1A1A1A?style=flat&logo=gmail&logoColor=white)](mailto:gopalakrishnachenu.usa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:gopalakrishnachenu.usa@gmail.com)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/gopalakrishnachennu)
 
 <br/><br/>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/gopalakrishnachennu&label=Visitors&labelColor=000000&countColor=bbbbbb&style=flat-square" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/gopalakrishnachennu&label=VISITORS&labelColor=000000&countColor=FFFFFF&style=flat-square" />
 
 </div>
 
 <br/><br/>
-
----
