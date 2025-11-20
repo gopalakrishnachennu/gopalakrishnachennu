@@ -5,10 +5,7 @@
 # **GOPALA KRISHNA CHENNU**
 
 <!-- Clean role typer under name -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=00FFEA&center=true&vCenter=true&width=900&lines=Data+Engineer;AI+Systems+Designer;Cloud+%7C+Data+%7C+AI+Engineering)
-
-
-<br/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2600&amp;pause=800&amp;color=8A8A8A&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Data+Engineer;AI+Systems+Designer;Cloud+%7C+Data+%7C+AI+Engineering)
 
 <!-- sleek dot divider -->
 ············································
