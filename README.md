@@ -1,10 +1,5 @@
 
 
-````md
-<div align="center">
-
-<br/><br/>
-
 # **GOPALA KRISHNA CHENNU**
 
 <!-- Clean role typer under name -->
