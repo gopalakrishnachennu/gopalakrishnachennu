@@ -1,8 +1,4 @@
-Nice, let’s lock this in.
 
-Here’s your **final, black, sleek, multi-animated README** — all animations are done with GitHub-safe `<img>` SVGs (so they’ll actually work after commit).
-
-👉 **Copy–paste this whole thing into `README.md`**:
 
 ````md
 <div align="center">
