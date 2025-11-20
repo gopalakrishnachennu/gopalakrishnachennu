@@ -6,15 +6,7 @@
 
 <br/>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgopalakrishnachennu&label=VISITORS&countColor=%23263759&style=flat&labelStyle=upper" />
 
-<br/>
-
-```ascii
-╔═══════════════════════════════════════════════════════════════════╗
-║  📍 Houston, TX  •  🌡️ Live  •  🕐 Currently Building            ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
 
 <div align="center">
 <img src="https://img.shields.io/badge/dynamic/json?color=2b2b2b&labelColor=1a1a1a&label=🌍%20Location&query=city&url=https%3A%2F%2Fipapi.co%2Fjson&style=for-the-badge" />
@@ -91,16 +83,7 @@ class Profile:
 </tr>
 </table>
 
-<div align="center">
 
-```ascii
-┌─────────────────────────────────────────────────────────────────┐
-│  "Code is like humor. When you have to explain it, it's bad."  │
-│                     — Cory House                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
@@ -156,18 +139,4 @@ class Profile:
 
 ---
 
-<div align="center">
 
-```ascii
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  "First, solve the problem. Then, write the code." — John Johnson
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-```
-╔════════════════════════════════════════════════════════════════════╗
-║  💪 DISCIPLINE BEATS MOTIVATION • CONSISTENCY BUILDS EMPIRES       ║
-╚════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
