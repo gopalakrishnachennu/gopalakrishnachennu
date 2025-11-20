@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Gopala Krishna Chennu
+# Gopala Krishna Chennu
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=600&lines=Solution+Architect;Data+Engineer;Cloud+Specialist;Building+Scalable+Systems" alt="Typing SVG" />
 
