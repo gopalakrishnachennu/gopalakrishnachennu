@@ -41,9 +41,7 @@ class Engineer:
 
 ---
 
-# 🖤 SKILL DOMAINS  
-*(Your most powerful animation section — centered blast)*
-
+# 🖤 SKILL DOMAINS 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=ARCHITECTURE+%7C+CLOUD+%7C+DATA+%7C+AI;Distributed+Systems.;Real-Time+Pipelines.;ML+at+Scale.;Cloud-Native.+Resilient.+Automated." />
