@@ -2,116 +2,108 @@
 
 <br/>
 
-<!-- Animated Intro Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Gopala+Krishna+Chennu;Architecting+Cloud+%26+Data+Systems;Engineering+AI-Powered+Solutions;Designing+the+Future+of+Technology" />
+<!-- 🔥 ULTRA ANIMATED NAME -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=GOPALA+KRISHNA+CHENNU;Solution+Architect+%7C+Data+Engineer+%7C+AI+Systems+Designer;Engineering+Cloud+%26+Intelligence+at+Scale" />
 
 <br/><br/>
 
-<!-- Subline -->
-### **Precision. Architecture. Intelligence. Execution.**
+<!-- ⚡ Animated Subheader -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=AAAAAA&center=true&vCenter=true&width=700&lines=Cloud-Native+Systems;Real-Time+Data+Pipelines;Distributed+Architecture;LLM+%2B+ML+Engineering;Precision+%2B+Scalability" />
 
-<br/>
+<br/><br/>
 
-<!-- Clean Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="600">
+<!-- Sleek Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="700" />
 
 </div>
 
 ---
 
-# ⚡ **Who I Am**
-I’m a **Solution Architect & Data Engineer** building systems that are:
+# ⚡ ABOUT ME
+Solution Architect & Data Engineer focused on designing **clean**, **resilient**, and **AI-driven** systems.
 
-- ⚪ **Fast**  
-- ⚪ **Scalable**  
-- ⚪ **Cloud-native**  
-- ⚪ **AI-driven**  
-- ⚪ **Engineered with intention**
+I make complex systems feel simple, predictable, and beautifully engineered.
 
 ```python
-class Myself:
-    role = "Solution Architect"
-    motto = "Clean architecture. Efficient systems."
-    focus = ["Cloud", "Data", "AI"]
+class Architect:
+    name = "Gopala Krishna Chennu"
+    role = "Solution Architect & Data Engineer"
+    values = ["Precision", "Scalability", "Clarity"]
+    loves = ["Cloud Architecture", "Data Systems", "AI Engineering"]
 ```
 
 ---
 
-# ⚡ **Animated Stats Overview**
+# ⚡ DOMAINS OF MASTERY
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=20&pause=1000&color=BBBBBB&center=true&vCenter=true&width=600&lines=Cloud+Architect;Data+Pipeline+Engineer;ML+Systems+Designer;Distributed+Systems+Expert;Performance+Optimizer;AI+Workflow+Engineer" />
+<!-- Animated domain list -->
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=20&duration=2500&pause=700&center=true&color=FFFFFF&width=700&lines=Architecture+%7C+Cloud+%7C+AI+%7C+Data;Designing+Systems+That+Scale;Engineering+Pipelines+That+Flow;Deploying+Models+That+Perform" />
+
+</div>
+
+### **ARCHITECTURE**
+- Distributed Systems  
+- Event-Driven Design  
+- Microservices  
+- Serverless & Cloud-Native  
+- Reliability & Optimization  
+
+### **DATA ENGINEERING**
+- Real-Time Streaming (Kafka)  
+- ETL/ELT Pipelines  
+- Warehouse Architecture  
+- Big Data Systems  
+
+### **AI/ML SYSTEMS**
+- Model Deployment  
+- MLOps  
+- LLM Integration  
+- NLP & Vision  
+
+### **CLOUD & DEVOPS**
+- AWS, Azure, GCP  
+- Docker, Kubernetes  
+- Terraform, IaC  
+- CI/CD Pipelines  
+
+---
+
+<div align="center">
+
+# ⚡ TECH ARSENAL  
+### *Black Edition — Animated Icons*
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,linux&theme=light&perline=10" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform&theme=light&perline=10" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=light&perline=10" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light&perline=10" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="80%"/>
 
 </div>
 
 ---
 
-# ⚡ **Core Domains**
-
-<div align="center">
-
-| ⚙️ Architecture | 🔥 Cloud | 📊 Data | 🤖 AI/ML |
-|---|---|---|---|
-| Microservices | AWS / Azure / GCP | Streaming (Kafka) | MLOps |
-| Distributed Systems | Kubernetes | ETL/ELT | LLM Integration |
-| Event-Driven Design | Terraform | Warehousing | NLP / Vision |
-| High Availability | CI/CD | Big Data | Model Serving |
-
-</div>
+# ⚡ PRINCIPLES I ENGINEER BY
+- **Clean architecture > messy complexity**  
+- **Everything must scale**  
+- **Automation is not optional**  
+- **Predictability beats cleverness**  
+- **If it isn’t elegant, it isn’t finished**  
 
 ---
 
-# ⚡ **Dynamic Project Capsules (Animated Cards)**
-
-<div align="center">
-
-<!-- Card 1 -->
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Cloud%20Architect&line1=AWS%2C+Azure%2C+GCP&line2=Kubernetes%2C+Terraform&line3=Serverless%2C+Scalable+Infra&theme=dark" width="350"/>
-
-<!-- Card 2 -->
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Data+Engineering&line1=Kafka%2C+Spark&line2=ETL%2FELT%2C+Pipelines&line3=Snowflake%2C+Big+Data&theme=dark" width="350"/>
-
-<!-- Card 3 -->
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=AI+Systems&line1=TensorFlow%2C+PyTorch&line2=LLM+Workflows&line3=MLOps%2C+Deployment&theme=dark" width="350"/>
-
-</div>
-
----
-
-# ⚡ **Tech Arsenal (Animated Icons)**
-
-<div align="center">
-
-<!-- Tech Logos -->
-<img src="https://skillicons.dev/icons?i=python,java,c,aws,azure,gcp,kubernetes,docker,terraform,git,jenkins,mongodb,postgres,redis,tensorflow,pytorch&theme=light" />
-
-</div>
-
----
-
-# ⚡ **Current Focus**
-### 🧠 Designing AI-first architectures  
-### ⚡ Engineering real-time data systems  
-### 🛠 Scaling cloud-native infrastructures  
-### 📡 Orchestrating distributed compute  
-### 🤖 Deploying LLM-powered pipelines  
-
----
-
-# ⚡ **Philosophy of Engineering**
-> **Clean. Predictable. Scalable.  
-> Technology should feel *smooth*, not complicated.   
-> Systems should disappear into the background, not fight the user.**  
-
----
-
-# ⚡ **Contact**
-
+# ⚡ CONNECT WITH ME
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopala-krishna-chennu-89912b230/)  
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gopalakrishnachenu.usa@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopalakrishnachenu.usa@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalakrishnachennu)
 
 <br/><br/>
@@ -120,10 +112,5 @@ class Myself:
 
 </div>
 
----
+<br/><br/>
 
-<div align="center">
-
-### **Built with precision. Designed with intent. Powered by engineering.**
-
-</div>
