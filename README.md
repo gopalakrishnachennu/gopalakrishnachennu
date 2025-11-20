@@ -44,9 +44,7 @@ class Engineer:
 
 # 🖤 SKILL DOMAINS 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=ARCHITECTURE+%7C+CLOUD+%7C+DATA+%7C+AI;Distributed+Systems.;Real-Time+Pipelines.;ML+at+Scale.;Cloud-Native.+Resilient.+Automated." />
-
 </div>
 
 <br/>
@@ -81,13 +79,8 @@ class Engineer:
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1000&pause=300&color=777777&center=true&vCenter=true&width=800&lines=Cloud.;Data.;AI.;Scale.;Latency.;Reliability.;Resilience.;Throughput.;Automation.;Observability." />
-
 </div>
-
-<br/>
-
 <div align="center">
-
 ············································
 
 </div>
@@ -108,13 +101,8 @@ class Engineer:
 
 <!-- scanline-like subtle animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=700&color=999999&center=true&width=700&lines=Optimized+Stacks+Built+for+Scale.;Cloud.+Data.+AI+Operating+as+One." />
-
 </div>
-
-<br/>
-
 <div align="center">
-
 ············································
 
 </div>
