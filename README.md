@@ -1,127 +1,147 @@
-<div align="center"> 
+<div align="center">
 
-# Gopala Krishna Chennu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=200&section=header&text=GOPALA%20KRISHNA%20CHENNU&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Solution%20Architect%20|%20Data%20Engineer%20|%20Cloud%20Specialist&descAlignY=55&descSize=18" />
 
-### Solution Architect • Data Engineer • Cloud Specialist
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+solutions+%F0%9F%9A%80;Architecting+cloud+infrastructure+%E2%98%81%EF%B8%8F;Engineering+data+pipelines+%F0%9F%94%A7;Powering+AI+innovations+%F0%9F%A4%96" alt="Typing SVG" />
+<div align="center">
+
+### 🌊 BUILDING THE FUTURE, ONE LINE AT A TIME
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&random=false&width=800&height=100&lines=ARCHITECT+OF+SCALABLE+SYSTEMS+%F0%9F%8F%97%EF%B8%8F;CLOUD+INFRASTRUCTURE+WIZARD+%E2%98%81%EF%B8%8F;DATA+PIPELINE+ENGINEER+%F0%9F%94%A5;AI+%26+ML+INNOVATOR+%F0%9F%A4%96;KUBERNETES+ORCHESTRATOR+%E2%98%B8%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎯 About
-
-I architect and build scalable solutions across cloud, data, and AI domains. My focus is on creating systems that are **elegant**, **performant**, and **impactful**.
-
-**Core Expertise:** `Python` • `Cloud Architecture` • `Data Engineering` • `Machine Learning`
-
----
-
-## 🛠️ Technical Arsenal
-
 <div align="center">
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,sql&perline=6&theme=dark" alt="Languages" />
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,jenkins,nginx&perline=7&theme=dark" alt="Cloud & DevOps" />
-
-### Data & AI
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,kafka,redis&perline=5&theme=dark" alt="Data & AI" />
-
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,flask,streamlit,graphql&perline=7&theme=dark" alt="Databases" />
-
-</div>
-
----
-
-## 🚀 Current Focus
-
-```yaml
-Building:
-  - AI-powered applications with LLMs
-  - Cloud-native microservices architecture
-  - Real-time data streaming pipelines
-
-Learning:
-  - Advanced ML systems & model optimization
-  - Distributed computing at scale
-  - LLM fine-tuning & prompt engineering
-
-Exploring:
-  - Snowflake data warehousing
-  - Apache Kafka stream processing
-  - Kubernetes orchestration patterns
-```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gopalakrishnachennu&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true" alt="Contribution Graph" />
+## ⚡ TECH ARSENAL
 
 <table>
 <tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gopalakrishnachennu&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
+<td align="center" width="25%">
+<h3>💻 LANGUAGES</h3>
+<img src="https://skillicons.dev/icons?i=python,java,c,sql&perline=2&theme=dark" />
 </td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gopalakrishnachennu&theme=transparent&hide_border=true&border_radius=15&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF&sideLabels=00D9FF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-
+<td align="center" width="25%">
+<h3>☁️ CLOUD</h3>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker&perline=2&theme=dark" />
+</td>
+<td align="center" width="25%">
+<h3>🔧 DEVOPS</h3>
+<img src="https://skillicons.dev/icons?i=kubernetes,jenkins,git,nginx&perline=2&theme=dark" />
+</td>
+<td align="center" width="25%">
+<h3>🤖 AI/ML</h3>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,kafka&perline=2&theme=dark" />
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<h3>🗄️ DATABASES</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=2&theme=dark" />
+</td>
+<td align="center" width="25%">
+<h3>🌐 FRAMEWORKS</h3>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,graphql&perline=2&theme=dark" />
+</td>
+<td align="center" width="25%">
+<h3>🎨 FRONTEND</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=2&theme=dark" />
+</td>
+<td align="center" width="25%">
+<h3>🔥 TOOLS</h3>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,firebase&perline=2&theme=dark" />
 </td>
 </tr>
 </table>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopalakrishnachennu&layout=donut&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_radius=15&langs_count=8" alt="Top Languages" />
-
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gopalakrishnachennu&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopala-krishna-chennu-89912b230/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopalakrishnachenu.usa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/gopalakrishnachennu)
-
-</div>
 
 ---
 
 <div align="center">
 
-### 💭 Developer Quote
+## 🎯 CURRENT MISSION
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
+</div>
 
-### 👁️ Profile Views
+```python
+class GopalakrishnaChennu:
+    def __init__(self):
+        self.role = "Solution Architect"
+        self.location = "Building the Future"
+        self.code = ["Python", "Java", "SQL", "C"]
+        self.architecture = ["Microservices", "Event-Driven", "Serverless"]
+        
+    def current_focus(self):
+        return {
+            "building": [
+                "AI-powered LLM applications 🤖",
+                "Cloud-native architectures ☁️",
+                "Real-time data pipelines 🔥"
+            ],
+            "learning": [
+                "Advanced ML systems 🧠",
+                "Distributed computing 🌐",
+                "Kubernetes at scale ⚙️"
+            ],
+            "mastering": [
+                "Snowflake optimization ❄️",
+                "Apache Kafka streaming 📊",
+                "Infrastructure as Code 🏗️"
+            ]
+        }
+    
+    def say_hi(self):
+        print("Let's build something epic together! 🚀")
 
-<img src="https://komarev.com/ghpvc/?username=gopalakrishnachennu&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
+me = GopalakrishnaChennu()
+me.say_hi()
+```
 
 ---
 
-<sub>✨ Building solutions that matter • One commit at a time ✨</sub>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+## 🌐 LET'S CONNECT
+
+<a href="https://www.linkedin.com/in/gopala-krishna-chennu-89912b230/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="mailto:gopalakrishnachenu.usa@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://github.com/gopalakrishnachennu">
+  <img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=gopalakrishnachennu&style=for-the-badge&color=00fff7&label=VISITORS&labelColor=000000" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💀 RANDOM DEV WISDOM
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+### ⚡ BUILDING SOLUTIONS THAT MATTER • ONE COMMIT AT A TIME ⚡
 
 </div>
