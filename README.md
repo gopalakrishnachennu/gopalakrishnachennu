@@ -6,11 +6,20 @@
 
 <br/>
 
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgopalakrishnachennu&label=VISITORS&countColor=%23263759&style=flat&labelStyle=upper" />
+
+<br/>
+
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════╗
-║  📍 Houston, Texas, US  •  🌡️ 81°F  •  ⏰ Thu, Nov 20, 2025      ║
+║  📍 Houston, TX  •  🌡️ Live  •  🕐 Currently Building            ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
+<img src="https://img.shields.io/badge/dynamic/json?color=2b2b2b&labelColor=1a1a1a&label=🌍%20Location&query=city&url=https%3A%2F%2Fipapi.co%2Fjson&style=for-the-badge" />
+<img src="https://img.shields.io/badge/dynamic/json?color=2b2b2b&labelColor=1a1a1a&label=⏰%20Local%20Time&query=timezone&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAmerica%2FChicago&style=for-the-badge" />
+</div>
 
 </div>
 
@@ -47,57 +56,86 @@ class Profile:
 
 ## Current Focus
 
+<div align="center">
+
+### 🎯 MISSION CONTROL
+
+</div>
+
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🔨 Building
-- AI-powered applications
-- Cloud-native architectures
-- Real-time data pipelines
-- Microservices systems
-
-</td>
-<td width="33%" valign="top">
-
-### 📚 Learning
-- Advanced ML systems
-- Distributed computing
-- LLM applications
-- Stream processing
+#### 🔥 **IN PRODUCTION**
+```diff
++ AI-Powered Applications
++ Cloud-Native Microservices  
++ Real-Time Data Pipelines
++ Distributed Systems Architecture
++ ML Model Deployment at Scale
+```
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🎯 Exploring
-- Snowflake optimization
-- Apache Kafka at scale
-- Kubernetes patterns
-- Infrastructure as Code
+#### 🚀 **NEXT LEVEL**
+```diff
+! Advanced ML System Design
+! Large Language Model Integration
+! Kubernetes Orchestration Mastery
+! Apache Kafka Stream Processing
+! Infrastructure as Code Excellence
+```
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+```ascii
+┌─────────────────────────────────────────────────────────────────┐
+│  "Code is like humor. When you have to explain it, it's bad."  │
+│                     — Cory House                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
 ---
 
 ## Experience
 
+<div align="center">
+
+### 💼 PROFESSIONAL ARSENAL
+
+</div>
+
 ```yaml
-Solution Architect:
-  - Designing scalable cloud architectures
-  - Leading technical implementation strategies
-  - Optimizing system performance and costs
+🏗️  ARCHITECTURE
+    ├─ Microservices & Event-Driven Design
+    ├─ Serverless & Cloud-Native Solutions
+    ├─ High-Availability System Design
+    └─ Performance Optimization & Scalability
 
-Data Engineer:
-  - Building ETL/ELT pipelines
-  - Managing data warehouses
-  - Real-time streaming solutions
+☁️  CLOUD ENGINEERING
+    ├─ Multi-Cloud Strategy (AWS | Azure | GCP)
+    ├─ Container Orchestration (Docker | Kubernetes)
+    ├─ CI/CD Pipeline Automation
+    └─ Infrastructure as Code (Terraform | CloudFormation)
 
-Cloud Specialist:
-  - Multi-cloud deployments (AWS, Azure)
-  - Container orchestration
-  - CI/CD automation
+📊  DATA ENGINEERING
+    ├─ ETL/ELT Pipeline Development
+    ├─ Data Warehouse Architecture (Snowflake)
+    ├─ Real-Time Streaming (Kafka | Spark)
+    └─ Big Data Processing & Analytics
+
+🤖  AI/ML SYSTEMS
+    ├─ Machine Learning Model Development
+    ├─ MLOps & Model Deployment
+    ├─ LLM Integration & Fine-tuning
+    └─ Computer Vision & NLP Solutions
 ```
 
 ---
@@ -106,13 +144,13 @@ Cloud Specialist:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopala-krishna-chennu-89912b230/)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:gopalakrishnachenu.usa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gopalakrishnachennu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopala-krishna-chennu-89912b230/)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopalakrishnachenu.usa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalakrishnachennu)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gopalakrishnachennu&style=flat&color=333333&label=Visitors)
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgopalakrishnachennu&label=VISITORS&countColor=%23263759&style=for-the-badge&labelStyle=upper" />
 
 </div>
 
@@ -120,10 +158,16 @@ Cloud Specialist:
 
 <div align="center">
 
+```ascii
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  "First, solve the problem. Then, write the code." — John Johnson
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Building solutions that matter • One commit at a time
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║  💪 DISCIPLINE BEATS MOTIVATION • CONSISTENCY BUILDS EMPIRES       ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
