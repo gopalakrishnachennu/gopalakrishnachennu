@@ -8,11 +8,6 @@
 
 
 
-<div align="center">
-<img src="https://img.shields.io/badge/dynamic/json?color=2b2b2b&labelColor=1a1a1a&label=🌍%20Location&query=city&url=https%3A%2F%2Fipapi.co%2Fjson&style=for-the-badge" />
-<img src="https://img.shields.io/badge/dynamic/json?color=2b2b2b&labelColor=1a1a1a&label=⏰%20Local%20Time&query=timezone&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FAmerica%2FChicago&style=for-the-badge" />
-</div>
-
 </div>
 
 ---
