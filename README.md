@@ -1,116 +1,89 @@
 <div align="center">
 
+<br/><br/>
+
+# **GOPALA KRISHNA CHENNU**
+
+### *Solution Architect • Data Engineer • AI Systems Designer*
+
 <br/>
 
-<!-- 🔥 ULTRA ANIMATED NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=GOPALA+KRISHNA+CHENNU;Solution+Architect+%7C+Data+Engineer+%7C+AI+Systems+Designer;Engineering+Cloud+%26+Intelligence+at+Scale" />
+<!-- Minimal Animated Line -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=888888&center=true&width=600&lines=Precision.+Scalability.+Architecture.;Clean+Systems+Built+for+Performance." />
 
-<br/><br/>
+<br/>
 
-<!-- ⚡ Animated Subheader -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=AAAAAA&center=true&vCenter=true&width=700&lines=Cloud-Native+Systems;Real-Time+Data+Pipelines;Distributed+Architecture;LLM+%2B+ML+Engineering;Precision+%2B+Scalability" />
-
-<br/><br/>
-
-<!-- Sleek Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="700" />
+<hr style="border:0.3px solid #333; width:55%;"/>
 
 </div>
 
 ---
 
-# ⚡ ABOUT ME
-Solution Architect & Data Engineer focused on designing **clean**, **resilient**, and **AI-driven** systems.
-
-I make complex systems feel simple, predictable, and beautifully engineered.
+# 🖤 ABOUT
+Architecting **black-and-white clarity** into complex cloud, data, and AI ecosystems.  
+No noise. No clutter. Pure engineering discipline.
 
 ```python
-class Architect:
+class Engineer:
     name = "Gopala Krishna Chennu"
-    role = "Solution Architect & Data Engineer"
-    values = ["Precision", "Scalability", "Clarity"]
-    loves = ["Cloud Architecture", "Data Systems", "AI Engineering"]
+    mantra = "Minimal surface. Maximum power."
+    specialization = ["Cloud", "Data", "AI"]
 ```
 
 ---
 
-# ⚡ DOMAINS OF MASTERY
-
-<div align="center">
-
-<!-- Animated domain list -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=20&duration=2500&pause=700&center=true&color=FFFFFF&width=700&lines=Architecture+%7C+Cloud+%7C+AI+%7C+Data;Designing+Systems+That+Scale;Engineering+Pipelines+That+Flow;Deploying+Models+That+Perform" />
-
-</div>
+# 🖤 SKILL DOMAINS
 
 ### **ARCHITECTURE**
 - Distributed Systems  
-- Event-Driven Design  
 - Microservices  
-- Serverless & Cloud-Native  
-- Reliability & Optimization  
+- High Availability  
+- Event-driven Design  
 
-### **DATA ENGINEERING**
-- Real-Time Streaming (Kafka)  
-- ETL/ELT Pipelines  
-- Warehouse Architecture  
-- Big Data Systems  
+### **DATA SYSTEMS**
+- Kafka  
+- ETL/ELT  
+- Warehousing  
+- Streaming Pipelines  
 
-### **AI/ML SYSTEMS**
+### **CLOUD / DEVOPS**
+- AWS • Azure • GCP  
+- Docker • Kubernetes  
+- Terraform • CI/CD  
+
+### **AI SYSTEMS**
 - Model Deployment  
 - MLOps  
-- LLM Integration  
-- NLP & Vision  
-
-### **CLOUD & DEVOPS**
-- AWS, Azure, GCP  
-- Docker, Kubernetes  
-- Terraform, IaC  
-- CI/CD Pipelines  
+- LLM Workflows  
 
 ---
 
 <div align="center">
 
-# ⚡ TECH ARSENAL  
-### *Black Edition — Animated Icons*
+# 🖤 TECH ARSENAL
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,linux&theme=light&perline=10" />
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform&theme=light&perline=10" />
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=light&perline=10" />
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light&perline=10" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="80%"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,aws,azure,gcp,kubernetes,docker,terraform,kafka,postgres,mongodb,redis,tensorflow,pytorch&theme=light&perline=12" />
 
 </div>
 
 ---
 
-# ⚡ PRINCIPLES I ENGINEER BY
-- **Clean architecture > messy complexity**  
-- **Everything must scale**  
-- **Automation is not optional**  
-- **Predictability beats cleverness**  
-- **If it isn’t elegant, it isn’t finished**  
+# 🖤 WAY OF WORK
+- Build systems that survive chaos  
+- Choose simplicity over ego  
+- Automation > repetition  
+- Design like a surgeon, not a hacker  
+- Black. Clean. Precise.  
 
 ---
 
-# ⚡ CONNECT WITH ME
+# 🖤 CONNECT
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopala-krishna-chennu-89912b230/)  
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopalakrishnachenu.usa@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalakrishnachennu)
-
-<br/><br/>
-
-<img src="https://api.visitorbadge.io/api/visitors?path=gopalakrishnachennu&label=VIEWS&labelColor=000000&countColor=FFFFFF" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopala-krishna-chennu-89912b230/)  
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:gopalakrishnachenu.usa@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/gopalakrishnachennu)
 
 </div>
 
 <br/><br/>
-
