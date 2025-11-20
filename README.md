@@ -1,306 +1,86 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gopala%20Krishna%20Chennu&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Architecting%20The%20Future%20|%20One%20Solution%20At%20A%20Time&descAlignY=55&descSize=18" width="100%"/>
+# Gopala Krishna Chennu
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Cloud+Architect+%F0%9F%9A%80;Data+Engineer+%F0%9F%93%8A;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%E2%9A%A1" alt="Typing SVG" />
-</p>
+### Solution Architect • Data Engineer • Cloud Specialist
 
-<!-- Animated Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20AI-00D9FF?style=for-the-badge&logo=icloud&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Status-Building%20Amazing%20Things-00FF7F?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Vibe-Innovation%20Mode-FF6B9D?style=for-the-badge&logo=airtable&logoColor=white&labelColor=1a1a2e" />
-</p>
-
-<!-- Profile Views with Animation -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gopalakrishnachennu&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/gopalakrishnachennu?label=Followers&style=for-the-badge&color=FF6B9D&labelColor=1a1a2e" alt="GitHub Followers" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Building+scalable+solutions;Architecting+cloud+infrastructure;Engineering+data+pipelines" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎭 The Developer's Manifesto
+## About
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Gopala Krishna Chennu"
-        self.role = "Solutions Architect & Innovation Engineer"
-        self.language_spoken = ["Python", "SQL", "Java", "en_US"]
-        self.code_philosophy = "Clean, Scalable, Impactful"
-        
-    def current_mission(self):
-        return {
-            "🎯 Building": ["AI-Powered Applications", "Cloud Infrastructure", "Data Pipelines"],
-            "📚 Learning": ["Advanced ML Architecture", "Distributed Systems", "LLM Fine-tuning"],
-            "🚀 Shipping": ["Production-Ready Solutions", "Open Source Tools", "Innovation"]
-        }
-    
-    def life_motto(self):
-        return "Code is poetry. Architecture is art. Impact is everything. 💎"
-```
+I architect and build scalable solutions across cloud, data, and AI domains. My focus is on creating systems that are elegant, performant, and impactful.
+
+**Core Expertise:** Python • Cloud Architecture • Data Engineering • Machine Learning
+
+---
+
+## Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### Data & Analytics
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+---
+
+## Current Focus
+
+**Building:** AI-powered applications, Cloud-native architectures, Real-time data pipelines  
+**Learning:** Advanced ML systems, Distributed computing, LLM applications  
+**Exploring:** Snowflake optimization, Stream processing, Kubernetes orchestration
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-## ⚡ Tech Stack Universe
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gopalakrishnachennu&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=666666&text_color=9f9f9f" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalakrishnachennu&theme=dark&hide_border=true&background=000000&ring=666666&fire=888888&currStreakLabel=ffffff&dates=9f9f9f" />
 
-### 🔥 Core Technologies
-
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-  <br>Python
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-  <br>Java
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-  <br>C
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-  <br>HTML5
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-  <br>CSS3
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
-  <br>SQL
-</td>
-</tr>
-</table>
-
-### ☁️ Cloud & DevOps Arsenal
-
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-  <br>AWS
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-  <br>Azure
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-  <br>Docker
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-  <br>Kubernetes
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-  <br>Jenkins
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br>Git
-</td>
-</tr>
-</table>
-
-### 🤖 AI/ML & Data Science
-
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-  <br>TensorFlow
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-  <br>PyTorch
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-  <br>OpenCV
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
-  <br>Scikit-learn
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-  <br>Pandas
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-  <br>NumPy
-</td>
-</tr>
-</table>
-
-### 🗄️ Databases & Data Tools
-
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-  <br>MongoDB
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  <br>MySQL
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-  <br>PostgreSQL
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
-  <br>Kafka
-</td>
-<td align="center" width="96">
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="48" height="48" alt="Snowflake" />
-  <br>Snowflake
-</td>
-<td align="center" width="96">
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="48" height="48" alt="Power BI" />
-  <br>Power BI
-</td>
-</tr>
-</table>
-
-### 🛠️ Frameworks & More
-
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-  <br>Flask
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=streamlit" width="48" height="48" alt="Streamlit" />
-  <br>Streamlit
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
-  <br>Selenium
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-  <br>GraphQL
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-  <br>Firebase
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
-  <br>Heroku
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopalakrishnachennu&show_icons=true&theme=dark&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=9f9f9f" />
 
 </div>
 
 ---
 
-<div align="center">
+## Connect
 
-## 📊 GitHub Performance Metrics
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gopalakrishnachennu&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gopalakrishnachennu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="100%" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gopalakrishnachennu&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalakrishnachennu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gopalakrishnachennu&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gopalakrishnachennu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gopalakrishnachennu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
 <div align="center">
-
-## 🎯 Current Focus Areas
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt5MHZ0NWh2YzFyZHlxY2Z5ajd1YzRsMmU3MnR3dTJweDh0eXQ0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="100px"/>
-
-### ☁️ Cloud Architecture
-Designing scalable, resilient cloud-native applications
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw2ZnV6bzYxdTZ2cHVqNWlzNmF3Z3A3YW5lc2E2cmQ1anZmYjJhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100px"/>
-
-### 🤖 AI/ML Innovation
-Building intelligent systems with cutting-edge ML models
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlrNGE3dzd4cDRjcWRyNGM4NmZqbW1nMTVndTk4d2JkZzlnZm16dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqmupuTVZYaQX5s094/giphy.gif" width="100px"/>
-
-### 📊 Data Engineering
-Creating robust ETL pipelines and data platforms
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect & Collaborate
-
-<p align="center">
-<a href="https://linkedin.com/in/gopalakrishnachennu">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/gopalakrishnachennu">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-</a>
-</p>
-
-### 💬 Let's Build Something Extraordinary Together
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🎨 Fun Fact: I turn ☕ into `<code/>` and ideas into reality!
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
+<sub>Building solutions that matter.</sub>
 </div>
