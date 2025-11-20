@@ -121,15 +121,6 @@ class Engineer:
 ---
 
 # 🖤 WAY OF WORK
-
-- Build systems that **survive chaos**  
-- Simplicity > ego  
-- Automation > repetition  
-- Architecture > hacks  
-- Black. Clean. Precise.  
-
-<br/>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2300&pause=900&color=777777&center=true&width=700&lines=Engineering+with+intent.;Architecture+with+discipline.;Systems+that+never+flinch+at+scale." />
