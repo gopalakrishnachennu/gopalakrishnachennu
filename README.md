@@ -1,111 +1,129 @@
 <div align="center">
 
-# Gopala Krishna Chennu
+# 🚀 Gopala Krishna Chennu
 
-Solution Architect • Data Engineer • Cloud Specialist
-
-<br/>
-
-Building scalable systems with precision and elegance
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=600&lines=Solution+Architect;Data+Engineer;Cloud+Specialist;Building+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
-<br/>
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║  📍 Houston, Texas, US  •  🌡️ 81°F  •  ⏰ Thu, Nov 20, 2025      ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-<br/>
+## About Me
 
-## Expertise
+Architect and engineer building scalable solutions across cloud, data, and AI domains.  
+Focus on elegant systems that perform at scale.
 
-**Cloud Architecture** • **Data Engineering** • **Machine Learning** • **DevOps**
-
-<br/>
-
----
-
-<br/>
-
-## Technologies
-
-<br/>
-
-### Languages
-Python • Java • C • SQL
-
-<br/>
-
-### Cloud & Infrastructure
-AWS • Azure • Docker • Kubernetes • Terraform
-
-<br/>
-
-### Data & Analytics
-Apache Kafka • Redis • PostgreSQL • MongoDB • Snowflake
-
-<br/>
-
-### AI & Machine Learning
-TensorFlow • PyTorch • OpenCV • Scikit-learn
-
-<br/>
-
-### Tools & Frameworks
-Flask • FastAPI • Streamlit • Git • Jenkins • Nginx
-
-<br/>
+```python
+class Profile:
+    role = "Solution Architect & Data Engineer"
+    focus = ["Cloud Architecture", "Data Pipelines", "ML Systems"]
+    currently = "Building AI-powered applications"
+```
 
 ---
 
-<br/>
+## Tech Stack
+
+<div align="center">
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+| ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
+
+</div>
+
+---
 
 ## Current Focus
 
-**Building**  
-AI-powered applications • Cloud-native architectures • Real-time data pipelines
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Learning**  
-Advanced ML systems • Distributed computing • LLM applications
+### 🔨 Building
+- AI-powered applications
+- Cloud-native architectures
+- Real-time data pipelines
+- Microservices systems
 
-**Exploring**  
-Snowflake optimization • Stream processing • Kubernetes orchestration
+</td>
+<td width="33%" valign="top">
 
-<br/>
+### 📚 Learning
+- Advanced ML systems
+- Distributed computing
+- LLM applications
+- Stream processing
+
+</td>
+<td width="33%" valign="top">
+
+### 🎯 Exploring
+- Snowflake optimization
+- Apache Kafka at scale
+- Kubernetes patterns
+- Infrastructure as Code
+
+</td>
+</tr>
+</table>
 
 ---
 
-<br/>
+## Experience
 
-## Featured Projects
+```yaml
+Solution Architect:
+  - Designing scalable cloud architectures
+  - Leading technical implementation strategies
+  - Optimizing system performance and costs
 
-### 🚀 **Cloud Data Pipeline**
-Scalable ETL pipeline processing 10M+ records daily  
-`Python` `AWS` `Apache Kafka` `Snowflake`
+Data Engineer:
+  - Building ETL/ELT pipelines
+  - Managing data warehouses
+  - Real-time streaming solutions
 
-### 🤖 **AI-Powered Analytics**
-Machine learning platform for predictive analytics  
-`TensorFlow` `Flask` `PostgreSQL` `Docker`
-
-### ☁️ **Kubernetes Orchestration**
-Microservices architecture with automated deployment  
-`Kubernetes` `Docker` `Jenkins` `AWS EKS`
-
-<br/>
+Cloud Specialist:
+  - Multi-cloud deployments (AWS, Azure)
+  - Container orchestration
+  - CI/CD automation
+```
 
 ---
-
-<br/>
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/gopala-krishna-chennu-89912b230/) • [Email](mailto:gopalakrishnachenu.usa@gmail.com) • [GitHub](https://github.com/gopalakrishnachennu)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopala-krishna-chennu-89912b230/)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:gopalakrishnachenu.usa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gopalakrishnachennu)
 
 <br/>
-<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=gopalakrishnachennu&style=flat&color=333333&label=Visitors)
+
+</div>
 
 ---
 
-<sub>Designed with precision • Built with purpose</sub>
+<div align="center">
 
-<br/>
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Building solutions that matter • One commit at a time
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
