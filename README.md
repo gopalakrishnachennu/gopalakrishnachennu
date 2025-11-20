@@ -1,138 +1,209 @@
 <div align="center">
 
-# 👋 Hey there, I'm Gopala Krishna Chennu
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gopala%20Krishna%20Chennu&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Architecting%20The%20Future%20|%20One%20Solution%20At%20A%20Time&descAlignY=55&descSize=18" width="100%"/>
 
-### 🚀 Passionate Developer | Cloud Architect | Data Engineer | AI Enthusiast
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Cloud+Architect+%F0%9F%9A%80;Data+Engineer+%F0%9F%93%8A;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%E2%9A%A1" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Reality;Building+Scalable+Solutions;Exploring+AI+%26+Machine+Learning;Cloud+Native+Development" alt="Typing SVG" />
+<!-- Animated Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20AI-00D9FF?style=for-the-badge&logo=icloud&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Status-Building%20Amazing%20Things-00FF7F?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Vibe-Innovation%20Mode-FF6B9D?style=for-the-badge&logo=airtable&logoColor=white&labelColor=1a1a2e" />
+</p>
+
+<!-- Profile Views with Animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gopalakrishnachennu&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/gopalakrishnachennu?label=Followers&style=for-the-badge&color=FF6B9D&labelColor=1a1a2e" alt="GitHub Followers" />
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🌟 About Me
-
-</div>
+## 🎭 The Developer's Manifesto
 
 ```python
-class GopalaKrishnaChennu:
+class Developer:
     def __init__(self):
         self.name = "Gopala Krishna Chennu"
-        self.role = "Solution-Oriented Developer"
-        self.location = "🌍 Building the Future"
-        self.passions = ["Cloud Computing", "Data Engineering", "AI/ML", "Full-Stack Dev"]
+        self.role = "Solutions Architect & Innovation Engineer"
+        self.language_spoken = ["Python", "SQL", "Java", "en_US"]
+        self.code_philosophy = "Clean, Scalable, Impactful"
         
-    def get_daily_motto(self):
-        return "Transform complexity into elegance, one line of code at a time ✨"
-    
-    def current_focus(self):
+    def current_mission(self):
         return {
-            "learning": ["Advanced ML Models", "Cloud Architecture", "System Design"],
-            "building": ["Data Pipelines", "AI-Powered Apps", "Automation Tools"],
-            "exploring": ["Snowflake", "Real-time Analytics", "LLM Applications"]
+            "🎯 Building": ["AI-Powered Applications", "Cloud Infrastructure", "Data Pipelines"],
+            "📚 Learning": ["Advanced ML Architecture", "Distributed Systems", "LLM Fine-tuning"],
+            "🚀 Shipping": ["Production-Ready Solutions", "Open Source Tools", "Innovation"]
         }
+    
+    def life_motto(self):
+        return "Code is poetry. Architecture is art. Impact is everything. 💎"
 ```
 
----
-
 <div align="center">
 
-## 💻 Tech Arsenal
+## ⚡ Tech Stack Universe
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🔥 Core Technologies
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### Data & Analytics
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Frameworks & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gopalakrishnachennu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalakrishnachennu&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopalakrishnachennu&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=gopalakrishnachennu&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 What I'm Currently Up To
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="60px"/>
-      <br><strong>Cloud Engineering</strong>
-      <br><sub>Building scalable cloud-native solutions</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60px"/>
-      <br><strong>AI/ML Projects</strong>
-      <br><sub>Experimenting with LLMs and ML models</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/data-configuration.png" width="60px"/>
-      <br><strong>Data Pipelines</strong>
-      <br><sub>Designing robust ETL workflows</sub>
-    </td>
-  </tr>
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <br>Python
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+  <br>Java
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+  <br>C
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+  <br>HTML5
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+  <br>CSS3
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+  <br>SQL
+</td>
+</tr>
 </table>
 
----
+### ☁️ Cloud & DevOps Arsenal
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+  <br>AWS
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+  <br>Azure
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <br>Docker
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+  <br>Kubernetes
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+  <br>Jenkins
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br>Git
+</td>
+</tr>
+</table>
 
-## 🤝 Let's Connect & Collaborate
+### 🤖 AI/ML & Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gopalakrishnachennu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalakrishnachennu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+  <br>TensorFlow
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+  <br>PyTorch
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+  <br>OpenCV
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
+  <br>Scikit-learn
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+  <br>Pandas
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+  <br>NumPy
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=30&fontAlignY=70&animation=twinkling" />
+### 🗄️ Databases & Data Tools
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  <br>MongoDB
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  <br>MySQL
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+  <br>PostgreSQL
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+  <br>Kafka
+</td>
+<td align="center" width="96">
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="48" height="48" alt="Snowflake" />
+  <br>Snowflake
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="48" height="48" alt="Power BI" />
+  <br>Power BI
+</td>
+</tr>
+</table>
+
+### 🛠️ Frameworks & More
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+  <br>Flask
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=streamlit" width="48" height="48" alt="Streamlit" />
+  <br>Streamlit
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
+  <br>Selenium
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+  <br>GraphQL
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+  <br>Firebase
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
+  <br>Heroku
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -140,8 +211,96 @@ class GopalaKrishnaChennu:
 
 <div align="center">
 
-### 💡 *"The best way to predict the future is to invent it."*
+## 📊 GitHub Performance Metrics
 
-![Profile Views](https://komarev.com/ghpvc/?username=gopalakrishnachennu&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gopalakrishnachennu&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gopalakrishnachennu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gopalakrishnachennu&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalakrishnachennu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gopalakrishnachennu&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Current Focus Areas
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt5MHZ0NWh2YzFyZHlxY2Z5ajd1YzRsMmU3MnR3dTJweDh0eXQ0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="100px"/>
+
+### ☁️ Cloud Architecture
+Designing scalable, resilient cloud-native applications
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw2ZnV6bzYxdTZ2cHVqNWlzNmF3Z3A3YW5lc2E2cmQ1anZmYjJhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100px"/>
+
+### 🤖 AI/ML Innovation
+Building intelligent systems with cutting-edge ML models
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlrNGE3dzd4cDRjcWRyNGM4NmZqbW1nMTVndTk4d2JkZzlnZm16dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqmupuTVZYaQX5s094/giphy.gif" width="100px"/>
+
+### 📊 Data Engineering
+Creating robust ETL pipelines and data platforms
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect & Collaborate
+
+<p align="center">
+<a href="https://linkedin.com/in/gopalakrishnachennu">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/gopalakrishnachennu">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+</a>
+</p>
+
+### 💬 Let's Build Something Extraordinary Together
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎨 Fun Fact: I turn ☕ into `<code/>` and ideas into reality!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
 </div>
